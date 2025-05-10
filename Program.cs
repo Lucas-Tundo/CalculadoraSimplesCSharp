@@ -103,6 +103,7 @@ namespace CalculadoraSimples {
                 //Mostrando o total na tela
                 Console.WriteLine($"O resultado da porcentagem é: {por:F2}");
             }else {
+                //Caso o usuario escolha nenhuma das opções
                 Console.WriteLine("Escolha uma das opções por favor!");
                 
             }
