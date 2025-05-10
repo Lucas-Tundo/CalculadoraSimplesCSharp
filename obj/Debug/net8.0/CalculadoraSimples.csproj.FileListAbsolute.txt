@@ -1,0 +1,15 @@
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.exe
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.deps.json
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.runtimeconfig.json
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.dll
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.pdb
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.AssemblyInfoInputs.cache
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.AssemblyInfo.cs
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.sourcelink.json
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.dll
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\refint\CalculadoraSimples.dll
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.pdb
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.genruntimeconfig.cache
+E:\projetos C#\CalculadoraSimples\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\ref\CalculadoraSimples.dll
